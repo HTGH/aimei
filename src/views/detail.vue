@@ -94,7 +94,7 @@
         display:inline-block;
         width:30px;
         height:30px;
-        background:url(http://img.rrcj123.com/buy/images/fenxiang_403x.png) no-repeat left top;
+        background:url(https://img.rrcj123.com/buy/images/fenxiang_403x.png) no-repeat left top;
         background-size:contain;
     }
     /*快递栏*/
@@ -264,25 +264,25 @@
         width:1.9rem;
         height:1.6rem;
         margin-left:-0.8rem;
-        background:url(http://img.rrcj123.com/buy/images/dianpu_403x.png) no-repeat left top;
+        background:url(https://img.rrcj123.com/buy/images/dianpu_403x.png) no-repeat left top;
         background-size:contain;
     }
     .custo_icon{
         width:1.7rem;
         height:1.6rem;
         margin-left:-0.8rem;
-        background:url(http://img.rrcj123.com/buy/images/kefu_403x.png) no-repeat left top;
+        background:url(https://img.rrcj123.com/buy/images/kefu_403x.png) no-repeat left top;
         background-size:contain;
     }
     .keep_icon{
         width:1.6rem;
         height:1.6rem;
         margin-left:-0.6rem;
-        background:url(http://img.rrcj123.com/buy/images/xing1.png) no-repeat left top;
+        background:url(https://img.rrcj123.com/buy/images/xing1.png) no-repeat left top;
         background-size:contain;
     }
     .keep_icon_toggle{
-        background:url(http://img.rrcj123.com/buy/images/xing2.png) no-repeat left top;
+        background:url(https://img.rrcj123.com/buy/images/xing2.png) no-repeat left top;
         background-size:contain;
     }
     .pro_fixed .order_now_btn{
@@ -376,10 +376,10 @@
         </div>
         <div class="swiper-container">
             <div class="swiper-wrapper">
-                <div class="swiper-slide"><img src="http://img.rrcj123.com/buy/images/temp/p2.jpg" style="height: 375px;"/></div>
-                <div class="swiper-slide"><img src="http://img.rrcj123.com/buy/images/temp/p3.jpg" style="height: 375px;"/></div>
-                <div class="swiper-slide"><img src="http://img.rrcj123.com/buy/images/temp/p4.jpg" style="height: 375px;"/></div>
-                <div class="swiper-slide"><img src="http://img.rrcj123.com/buy/images/temp/p5.jpg" style="height: 375px;"/></div>
+                <div class="swiper-slide"><img src="https://img.rrcj123.com/buy/images/temp/p2.jpg" style="height: 375px;"/></div>
+                <div class="swiper-slide"><img src="https://img.rrcj123.com/buy/images/temp/p3.jpg" style="height: 375px;"/></div>
+                <div class="swiper-slide"><img src="https://img.rrcj123.com/buy/images/temp/p4.jpg" style="height: 375px;"/></div>
+                <div class="swiper-slide"><img src="https://img.rrcj123.com/buy/images/temp/p5.jpg" style="height: 375px;"/></div>
             </div>
             <!-- 如果需要分页器 -->
             <div class="pagination">{{i}}/4</div>
@@ -406,9 +406,9 @@
         </div>
         <div class="pro_warp">
             <p>三只松鼠_小贱牛板筋120gx2袋休闲零食特产麻辣/烧烤味 烧烤味</p>
-            <img src="http://img.rrcj123.com/buy/images/temp/p2.jpg" />
-            <img src="http://img.rrcj123.com/buy/images/temp/p3.jpg" />
-            <img src="http://img.rrcj123.com/buy/images/temp/p4.jpg" />
+            <img src="https://img.rrcj123.com/buy/images/temp/p2.jpg" />
+            <img src="https://img.rrcj123.com/buy/images/temp/p3.jpg" />
+            <img src="https://img.rrcj123.com/buy/images/temp/p4.jpg" />
         </div>
         <div class="pro_fixed clearfix">
             <router-link to="/introduce"><i class="sto_icon"></i><span>店铺</span></router-link>

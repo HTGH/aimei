@@ -20,7 +20,7 @@
         display:block;
         width:2.1rem;
         height:2.4rem;
-        background:url(http://img.rrcj123.com/buy/images/gonggao_403x.png) no-repeat left top;
+        background:url(https://img.rrcj123.com/buy/images/gonggao_403x.png) no-repeat left top;
         background-size:contain;
     }
     .bulletin_list li .bulletin_icon{

@@ -10,7 +10,7 @@
         visibility: hidden;
     }
     .mem_info{
-        background:url(http://img.rrcj123.com/buy/images/mbg.jpg) no-repeat center center;
+        background:url(https://img.rrcj123.com/buy/images/mbg.jpg) no-repeat center center;
         background-size:cover;
         padding:2rem 3rem 1rem 3rem;
         text-align:center;
@@ -84,7 +84,7 @@
         width:2.2rem;
         height:2.2rem;
         margin-left:-1rem;
-        background:url(http://img.rrcj123.com/buy/images/dingdanqueren_403x.png) no-repeat left top;
+        background:url(https://img.rrcj123.com/buy/images/dingdanqueren_403x.png) no-repeat left top;
         background-size:contain;
     }
     .dabaozhong_icon{
@@ -92,7 +92,7 @@
         width:2rem;
         height:2.2rem;
         margin-left:-1.1rem;
-        background:url(http://img.rrcj123.com/buy/images/dabaozhong_403x.png) no-repeat left top;
+        background:url(https://img.rrcj123.com/buy/images/dabaozhong_403x.png) no-repeat left top;
         background-size:contain;
     }
     .dabaowancheng_icon{
@@ -100,7 +100,7 @@
         width:2rem;
         height:2rem;
         margin-left:-1.2rem;
-        background:url(http://img.rrcj123.com/buy/images/dabaowancheng_403x.png) no-repeat left top;
+        background:url(https://img.rrcj123.com/buy/images/dabaowancheng_403x.png) no-repeat left top;
         background-size:contain;
     }
     .fahuozhong_icon{
@@ -108,7 +108,7 @@
         width:2.2rem;
         height:2.6rem;
         margin-left:-1.2rem;
-        background:url(http://img.rrcj123.com/buy/images/fahuozhong_403x.png) no-repeat left top;
+        background:url(https://img.rrcj123.com/buy/images/fahuozhong_403x.png) no-repeat left top;
         background-size:contain;
     }
     .yifakuaidi_icon{
@@ -116,7 +116,7 @@
         width:2.6rem;
         height:2rem;
         margin-left:-1.5rem;
-        background:url(http://img.rrcj123.com/buy/images/yifakuaidi_403x.png) no-repeat left top;
+        background:url(https://img.rrcj123.com/buy/images/yifakuaidi_403x.png) no-repeat left top;
         background-size:contain;
     }
     /*头以下*/
@@ -150,14 +150,14 @@
         width:2rem;
         height:1.8rem;
         margin-top:-1.1rem;
-        background:url(http://img.rrcj123.com/buy/images/dingdankuaidi_403x.png) no-repeat left top;
+        background:url(https://img.rrcj123.com/buy/images/dingdankuaidi_403x.png) no-repeat left top;
         background-size:contain;
     }
     .right_icon{
         display:block;
         width:0.6rem;
         height:1.2rem;
-        background:url(http://img.rrcj123.com/buy/images/youjiantou-_403x.png) no-repeat left top;
+        background:url(https://img.rrcj123.com/buy/images/youjiantou-_403x.png) no-repeat left top;
         background-size:contain;
     }
     .fastway_list li .right_icon{
@@ -172,7 +172,7 @@
         height:2rem;
         left:1rem;
         margin-top:-1.2rem;
-        background:url(http://img.rrcj123.com/buy/images/wodedingdan_403x.png) no-repeat left top;
+        background:url(https://img.rrcj123.com/buy/images/wodedingdan_403x.png) no-repeat left top;
         background-size:contain;
     }
     .fastway_list li b.mbd_icon{
@@ -181,7 +181,7 @@
         height:1.8rem;
         left:1rem;
         margin-top:-1.1rem;
-        background:url(http://img.rrcj123.com/buy/images/woyaobudan_403x.png) no-repeat left top;
+        background:url(https://img.rrcj123.com/buy/images/woyaobudan_403x.png) no-repeat left top;
         background-size:contain;
     }
     .fastway_list li b.fav_icon{
@@ -190,7 +190,7 @@
         height:1.8rem;
         margin-top:-1.1rem;
         left:1rem;
-        background:url(http://img.rrcj123.com/buy/images/wodeshoucang_403x.png) no-repeat left top;
+        background:url(https://img.rrcj123.com/buy/images/wodeshoucang_403x.png) no-repeat left top;
         background-size:contain;
     }
     .fastway_list li b.footsteps_icon{
@@ -198,7 +198,7 @@
         width:1.4rem;
         height:2.2rem;
         margin-top:-1.3rem;left:1.2rem;
-        background:url(http://img.rrcj123.com/buy/images/liulanzuji_403x.png) no-repeat left top;
+        background:url(https://img.rrcj123.com/buy/images/liulanzuji_403x.png) no-repeat left top;
         background-size:contain;
     }
     .fastway_list li b.sales_icon{
@@ -207,7 +207,7 @@
         height:2rem;
         left:1rem;
         margin-top:-1.2rem;
-        background:url(http://img.rrcj123.com/buy/images/shouhouguanli_403x.png) no-repeat left top;
+        background:url(https://img.rrcj123.com/buy/images/shouhouguanli_403x.png) no-repeat left top;
         background-size:contain;
     }
     .fastway_list li b.locate_icon{
@@ -216,14 +216,14 @@
         height:2rem;
         left:1rem;
         margin-top:-1.2rem;
-        background:url(http://img.rrcj123.com/buy/images/shouhuodizhi_403x.png) no-repeat left top;
+        background:url(https://img.rrcj123.com/buy/images/shouhuodizhi_403x.png) no-repeat left top;
         background-size:contain;
     }
 </style>
 <template>
     <div>
         <div class="mem_info">
-            <span class="m_pic"><img src="http://img.rrcj123.com/buy/images/temp/mpic1.jpg" /></span>
+            <span class="m_pic"><img src="https://img.rrcj123.com/buy/images/temp/mpic1.jpg" /></span>
             <p>用户名</p>
         </div>
         <div class="mtab_list_box">

@@ -15,7 +15,7 @@
     }
     .lable_checked{
         background-color: #ff5053;
-        background-image: url("http://img.rrcj123.com/buy/images/gougougou_403x.png");
+        background-image: url("https://img.rrcj123.com/buy/images/gougougou_403x.png");
         background-size: contain;
         border: 1px solid #ff5053;
     }
@@ -90,7 +90,7 @@
         cursor:pointer;
         width:18px;
         height:18px;
-        background:url(http://img.rrcj123.com/buy/images/shanchu_403x.png) no-repeat left top;
+        background:url(https://img.rrcj123.com/buy/images/shanchu_403x.png) no-repeat left top;
         background-size:contain;
         position:absolute;right:0;
         top:50%;
@@ -148,7 +148,7 @@
             <ul class="order_pro_list">
                 <li>
                     <i><input id='check-1' type="checkbox" name='check-1' style="display: none"/><label @click="ischecked" for="check-1" class="lable" :class="{lable_checked:ische}">&nbsp;</label></i>
-                    <a href="javascript:" class="pic"><img src="http://img.rrcj123.com/buy/images/temp/pic.jpg" /></a>
+                    <a href="javascript:" class="pic"><img src="https://img.rrcj123.com/buy/images/temp/pic.jpg" /></a>
                     <h2><a href="javascript:">韩版冬季中长款显瘦高领针织连衣裙长裙 </a></h2>
                     <h3>M<span>黑色</span></h3>
                     <div class="order_c_op">
@@ -164,7 +164,7 @@
 
                 <li>
                     <i><input id='check-2' type="checkbox" name='check-2' style="display: none"/><label @click="ischecked2" for="check-2" class="lable" :class="{lable_checked:ische2}">&nbsp;</label></i>
-                    <a href="javascript:" class="pic"><img src="http://img.rrcj123.com/buy/images/temp/p7.jpg" /></a>
+                    <a href="javascript:" class="pic"><img src="https://img.rrcj123.com/buy/images/temp/p7.jpg" /></a>
                     <h2><a href="javascript:">韩版冬季中长款显瘦高领针织连衣裙长裙 </a></h2>
                     <h3>M<span>黑色</span></h3>
                     <div class="order_c_op">

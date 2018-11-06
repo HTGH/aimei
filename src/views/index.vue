@@ -57,7 +57,7 @@
     left:1rem ;
     top:50%;
     margin-top:-0.8rem;
-    background:url(http://img.rrcj123.com/buy/images/fenlei_403x.png) no-repeat left top;
+    background:url(https://img.rrcj123.com/buy/images/fenlei_403x.png) no-repeat left top;
     background-size:contain;
   }
   .search_icon{
@@ -69,7 +69,7 @@
     right:1rem ;
     top:50%;
     margin-top:-0.8rem;
-    background:url(http://img.rrcj123.com/buy/images/sousuo_403x.png) no-repeat left top;
+    background:url(https://img.rrcj123.com/buy/images/sousuo_403x.png) no-repeat left top;
     background-size:contain;
   }
   .search_input{
@@ -93,7 +93,7 @@
     width:2rem;
     height:2rem;
     cursor:pointer;
-    background:url(http://img.rrcj123.com/buy/images/dianpu_403x.png) no-repeat left top;
+    background:url(https://img.rrcj123.com/buy/images/dianpu_403x.png) no-repeat left top;
     background-size:contain;
   }
   .shop_header .shop_icon{
@@ -125,7 +125,7 @@
     display:block;
     width:1rem;
     height:1rem;
-    background:url(http://img.rrcj123.com/buy/images/fensitubiao_403x.png) no-repeat left top;
+    background:url(https://img.rrcj123.com/buy/images/fensitubiao_403x.png) no-repeat left top;
     background-size:contain;
   }
   .shop_header .love_icon{
@@ -148,7 +148,7 @@
     display:block;
     width:2.5rem;
     height:1.5rem;
-    background:url(http://img.rrcj123.com/buy/images/laba_403x.png) no-repeat left top;
+    background:url(https://img.rrcj123.com/buy/images/laba_403x.png) no-repeat left top;
     background-size:contain;
   }
   .shop_placard .placard_icon{
@@ -251,9 +251,9 @@
     </div>
 
     <mt-swipe :auto="4000">
-      <mt-swipe-item><img src="http://img.rrcj123.com/buy/images/temp/ban1.jpg"></mt-swipe-item>
-      <mt-swipe-item><img src="http://img.rrcj123.com/buy/images/temp/ban2.jpg"></mt-swipe-item>
-      <mt-swipe-item><img src="http://img.rrcj123.com/buy/images/temp/ban3.jpg"></mt-swipe-item>
+      <mt-swipe-item><img src="https://img.rrcj123.com/buy/images/temp/ban1.jpg"></mt-swipe-item>
+      <mt-swipe-item><img src="https://img.rrcj123.com/buy/images/temp/ban2.jpg"></mt-swipe-item>
+      <mt-swipe-item><img src="https://img.rrcj123.com/buy/images/temp/ban3.jpg"></mt-swipe-item>
     </mt-swipe>
 
     <div class="tabBox clearfix">

@@ -53,7 +53,7 @@ Vue.filter("dateFormat",function(datestr,pattern="YYYY-MM-DD"){
 });
 
 // 设置全局ajax访问基础路径
-Vue.http.options.root="http://101.200.33.195:3011/";
+Vue.http.options.root="https://aimei.rrcj123.com";
 
 // 设置全局ajax post访问格式
 Vue.http.options.emulateJSON=true;

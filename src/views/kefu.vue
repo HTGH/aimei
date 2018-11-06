@@ -119,7 +119,7 @@
     display:block;
     width:26px;
     height:26px;
-    background:url(http://img.rrcj123.com/buy/images/biaoqing_403x.png) no-repeat left top;
+    background:url(https://img.rrcj123.com/buy/images/biaoqing_403x.png) no-repeat left top;
     background-size:contain;
   }
   .send_fixed .face_icon{
@@ -161,11 +161,11 @@
   <div class="kefu">
     <div class="customer_box" @click="clear">
       <div class="answer_box">
-        <i class="pic"><img src="http://img.rrcj123.com/buy/images/temp/mpic2.jpg" /></i>
+        <i class="pic"><img src="https://img.rrcj123.com/buy/images/temp/mpic2.jpg" /></i>
         <p>微客服聊天界面互动微客服</p>
       </div>
       <div class="ask_box">
-        <i class="pic"><img src="http://img.rrcj123.com/buy/images/temp/mpic1.jpg" /></i>
+        <i class="pic"><img src="https://img.rrcj123.com/buy/images/temp/mpic1.jpg" /></i>
         <p>微客服聊天互动微客服</p>
       </div>
     </div>

@@ -54,7 +54,7 @@
 <template>
 <div class="introduce">
     <div class="store_box">
-        <div class="pic"><img src="http://img.rrcj123.com/buy/images/temp/shop_pic.jpg" class="wimg" /></div>
+        <div class="pic"><img src="https://img.rrcj123.com/buy/images/temp/shop_pic.jpg" class="wimg" /></div>
         <div class="store_info">
             <h2>春暖花开女装批发店</h2>
             <h4>500<span>粉丝</span></h4>

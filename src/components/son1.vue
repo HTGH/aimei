@@ -74,7 +74,7 @@
         right:1rem;
     }
     .pro_title{
-        background:url(http://img.rrcj123.com/buy/images/line.png) no-repeat center center #f2f2f2;
+        background:url(https://img.rrcj123.com/buy/images/line.png) no-repeat center center #f2f2f2;
         padding:1rem 0 1.4rem 0;
         text-align:center;
         background-size:contain;
